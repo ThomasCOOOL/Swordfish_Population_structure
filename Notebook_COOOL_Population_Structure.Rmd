@@ -143,7 +143,7 @@ Ind_info_POP_K1_gl_dapc <- cbind(my_sample_K1_gl_dapc, rep("POP1", 2028))
 Ind_info_POP_K1_gl_dapc <- as.data.frame(Ind_info_POP_K1_gl_dapc)
 ```
 
-For all the Kinference part if you have any question or you want to access to the Kinference package thanks to contact the developper Shane Baylis (Shane.Baylis@csiro.au) 
+# For any questions or enquiries about package kinference contact the package maintainer Shane Baylis (Shane.Baylis@csiro.au) 
 
 ```{r, include=FALSE,echo=FALSE, warning=FALSE}
 my_snpgeno_K1_gl_dapc <- snpgeno.snpgds(x = as.matrix(gl_dapc), Locus = loci_name_K1_gl_dapc, Our_sample = my_sample_K1_gl_dapc, locinfo = info_loci_K1_gl_dapc, info = Ind_info_POP_K1_gl_dapc)
