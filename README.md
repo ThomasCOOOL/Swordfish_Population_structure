@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="images/DinoVd_eau_architecture.png" alt="Project logo" width="700">
-  <p align="center">A classification framework to enhance underwater computer vision models.</p>
-  <a href="https://github.com/SeatizenDOI/DinoVdeau">View framework</a>
-  ·
-  <a href="https://github.com/SeatizenDOI/DinoVdeau/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/SeatizenDOI/DinoVdeau/issues">Request Feature</a>
-  <h1></h1>
+  <img src="Image_ReadME.png" alt="Project logo" width="700">
 </div>
 
 # Population structure of the swordfish, Xiphias gladius, across the Indian Ocean using Next Generation Sequencing
